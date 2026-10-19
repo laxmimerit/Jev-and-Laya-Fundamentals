@@ -1,0 +1,201 @@
+id,text,intent
+1,"I'm starting to think my card is lost because it still hasn't arrived, can you help?",card_arrival
+2,What do I need to do to change my PIN?,change_pin
+3,What do I do if I think my card was improperly used?,compromised_card
+4,I cannot find my credit card.,lost_or_stolen_card
+5,How can I change my Tholepin ?,change_pin
+6,My card is very close to expiring. When can I order a new one and how do I do so?,card_about_to_expire
+7,"I have been waiting longer than expected for my bank card, could you provide information on when it will arrive?",card_arrival
+8,I'm pretty sure something went wrong with my exchange. I changed Russian Ruble to UK pounds and was charged way too much!,card_payment_wrong_exchange_rate
+9,Is there tracking info available?,card_arrival
+10,Your exchange rate is totally wrong for my card payment,card_payment_wrong_exchange_rate
+11,I don't know why my payment didn't work.,declined_card_payment
+12,Why did I have to pay more when I do it with my card?,card_payment_fee_charged
+13,"When my card expires, will I get a new one mailed to me?",card_about_to_expire
+14,I go the wrong exchange rate applied to my purchase in a foreign country.,card_payment_wrong_exchange_rate
+15,I think I lost my card . I dont know how long it has been missing. Can you see if maybe someone else has been using it?,lost_or_stolen_card
+16,How long does a card delivery take?,card_arrival
+17,What do I need to do to activate my new card?,activate_my_card
+18,I have been charged with a fee for paying with my card.,card_payment_fee_charged
+19,how to activate card?,activate_my_card
+20,Why do you keep declining my payment? I tried several times already with this card and it's just not working,declined_card_payment
+21,The expiration date on my card is coming up,card_about_to_expire
+22,I bought something overseas and the wrong exchange rate is on my statement.,card_payment_wrong_exchange_rate
+23,Why isn't my card working?,card_not_working
+24,I bought something in a foreign currency but the rate applied is wrong!,card_payment_wrong_exchange_rate
+25,Why is my debit card being declined when I have money?,declined_card_payment
+26,"Why do I get charged additional fees on some payments, but not others?",card_payment_fee_charged
+27,I want to set a new PIN,change_pin
+28,"I need a new card, my current card is nearly expired.",card_about_to_expire
+29,How do I avoid getting charged a fee on my card?,card_payment_fee_charged
+30,How can I get my physical card to work?,card_not_working
+31,Does the card you sent have a way to track to it?,card_arrival
+32,The card I've got seems to be broken.,card_not_working
+33,"Hi, I don't think your exchange rate is right. I need you to check the official interbank exchange please.",card_payment_wrong_exchange_rate
+34,What do I do if I think someone managed to get my card information?,compromised_card
+35,When will my card be activated?,activate_my_card
+36,"Next month my card will expire, do I need to order a new one?",card_about_to_expire
+37,Someone needs to make me aware when there are extra charges for payments. I happened to be looking at the app earlier and noticed a charge associated to a payment that was extra that no one made me aware of before at all.,card_payment_fee_charged
+38,How do I track my card?,card_arrival
+39,My card is lost! What can I do?,lost_or_stolen_card
+40,I think someone got my card details and used it because there are transactions i don't recognize. What do I do now?,compromised_card
+41,They charged me for paying with my card.,card_payment_fee_charged
+42,"Hello, I am facing the issue with my new card as payments are declining again and again. Please help me in this issue.",declined_card_payment
+43,How do I go about activating my new card?,activate_my_card
+44,Someone I don't know has used my card without permission.,compromised_card
+45,I want to choose a different PIN.,change_pin
+46,"My payment has been declined, I thought this issue was fixed!",declined_card_payment
+47,Where is my new card? I have been waiting a week!,card_arrival
+48,Why was my Payment declined,declined_card_payment
+49,I think someone copied the numbers on my card and is using them.,compromised_card
+50,The exchange rate on my purchase is wrong.,card_payment_wrong_exchange_rate
+51,My card didn't work in one of the shops.,declined_card_payment
+52,Why did I have to pay extra because I paid with card?,card_payment_fee_charged
+53,"Since my card is about to expire, what do I do to get a new one?",card_about_to_expire
+54,Can you freeze my card it was stolen,lost_or_stolen_card
+55,I wasn't applied the correct exchange rate for an item I bought,card_payment_wrong_exchange_rate
+56,Why can't I activate my card?,activate_my_card
+57,What are the steps in order to activate my new card?,activate_my_card
+58,I need to change my PIN. Can I do that at a cash machine?,change_pin
+59,I broke my card,card_not_working
+60,The card I have doesn't work.,card_not_working
+61,There is a fee on my account. Why?,card_payment_fee_charged
+62,How do I report a stolen card?,lost_or_stolen_card
+63,going to need a new card what are the fees and time it takes,card_about_to_expire
+64,still waiting on that card,card_arrival
+65,the card payment exchange rate is wrong,card_payment_wrong_exchange_rate
+66,Are you able to locate my card?,lost_or_stolen_card
+67,"Could it be that I deactivated my card, its not working?",card_not_working
+68,Can i change my PIN at the ATM?,change_pin
+69,My card doesn't accept any transaction at all. What's wrong??,card_not_working
+70,My card got lost.,lost_or_stolen_card
+71,I would appreciate that someone let me know when there is an extra charge for payments. I was checking the app earlier and saying a charge on one of my payments that was additional that no one made me aware of before.,card_payment_fee_charged
+72,My card was taken from me,lost_or_stolen_card
+73,I made a card payment and a fee is showing up?,card_payment_fee_charged
+74,It seems someone used my card! There are a few transactions from a small town in the middle of nowhere that I definitely have not made! Please prevent them from using it immediately!,compromised_card
+75,You did not apply the correct exchange rate for an item that I bought.,card_payment_wrong_exchange_rate
+76,Some idiot stole my card.,lost_or_stolen_card
+77,Someone else used my card!,compromised_card
+78,Where is the tracking number for the card you sent me?,card_arrival
+79,What is the process of card activation?,activate_my_card
+80,I don't think my card payment exchange rate is correct.,card_payment_wrong_exchange_rate
+81,My card is about to expire and I need to know how much it costs and how long it takes to get a new one.,card_about_to_expire
+82,Need help with my card. It's not working.,card_not_working
+83,Why do you charge fees on card payments?,card_payment_fee_charged
+84,The expiration date of my card is approaching .,card_about_to_expire
+85,"Someone has my card number, freeze my account.",compromised_card
+86,"My card payment didn't work, can you help?",declined_card_payment
+87,What is the tracking number for my card that was mailed?,card_arrival
+88,How do I unblock my card using the app?,card_not_working
+89,Why was I charged a fee when I paid with card?,card_payment_fee_charged
+90,"It appears my card expires next month, can I order a new one?",card_about_to_expire
+91,My card broke.,card_not_working
+92,"I'm still waiting for delivery of my new card, why is it taking so long?",card_arrival
+93,I need to know the cost and when I will receive a new card to replace an old one.,card_about_to_expire
+94,Why was my card payment declined?,declined_card_payment
+95,"My card is expiring shortly.  How much will it cost for a replacement, and how soon can I get it?",card_about_to_expire
+96,Please tell me which cash machines will allow me to change my pin.,change_pin
+97,"I am in Austria right now. I need to change my PIN ASAP, so can I still do this from here?",change_pin
+98,For the first time I got a fee on my account. How do I know when you charge these fees?,card_payment_fee_charged
+99,"Someone stole my card. I need to report it stolen. I made a police report already, but how do I report it with you?",lost_or_stolen_card
+100,What should I do if I think someone is using my card.,compromised_card
+101,How can I check the exchange rate applied to my transaction?,card_payment_wrong_exchange_rate
+102,What would the price be for an expired card replacement and how long will it take me to get it?,card_about_to_expire
+103,I can't use my card.,card_not_working
+104,How long should my new card take to arrive?,card_arrival
+105,Help me please!  My card was stolen!,lost_or_stolen_card
+106,How do I freeze my card? I think someone is using it to make a bunch of online transactions.,compromised_card
+107,How do I report my card lost or stolen?,lost_or_stolen_card
+108,Why was a transaction on my card declined?,declined_card_payment
+109,Is there a location near me that i can change my PIN?,change_pin
+110,My actual card isn't working.,card_not_working
+111,Do you know why my card payment is declined?,declined_card_payment
+112,I cannot use my card.,card_not_working
+113,My card doesn't work.,card_not_working
+114,How do I deal with a stolen card?,lost_or_stolen_card
+115,I ordered a card but it has not arrived. Help please!,card_arrival
+116,Am I able to change my PIN at any cash machines?,change_pin
+117,How can I activate my card so I can start using it?,activate_my_card
+118,Can I receive a new card while I am in China?,card_about_to_expire
+119,Is using my card free?,card_payment_fee_charged
+120,I need help with activating my card,activate_my_card
+121,My card hasn't arrived yet.,card_arrival
+122,Card payment declined?,declined_card_payment
+123,What do I do to stop unauthorized transactions on my card? I was never in the place from which the transactions on my bill were made and I never made them. Please help!,compromised_card
+124,Nothing goes through on my card.,card_not_working
+125,My card has been compromised,compromised_card
+126,My card payment did not complete.,declined_card_payment
+127,My card has not arrived yet.,card_arrival
+128,I think my child used my card while I wasn't home.,compromised_card
+129,I need a new Pin how do I go about that?,change_pin
+130,"in china, need new card",card_about_to_expire
+131,"I ordered a card a week ago, and it's still not here. What do I do?",card_arrival
+132,Something is wrong with my payment account since it has been declined,declined_card_payment
+133,"card is lost, please help",lost_or_stolen_card
+134,Will I always be charged a fee for using my card?,card_payment_fee_charged
+135,the conversion value for my card payments is incorrect.,card_payment_wrong_exchange_rate
+136,Show me how to change my pin?,change_pin
+137,Why was the exchange rate incorrect for an item I recently bought?,card_payment_wrong_exchange_rate
+138,"Somebody has stolen my card, I need help please.",lost_or_stolen_card
+139,What do I do if my card is expiring soon?,card_about_to_expire
+140,I ordered a card and I still haven't received it. It's been two weeks. What can I do?,card_arrival
+141,Someone is using my account to do online shopping! Please freeze it asap,compromised_card
+142,How do I freeze my account?,compromised_card
+143,I would like to get help from someone with activating my card.,activate_my_card
+144,My card isn't working anymore.,card_not_working
+145,I'm really stuck. I don't know why but my card payment has not gone through.,declined_card_payment
+146,"I did not get my card yet, is it lost?",card_arrival
+147,Paying in card resulted in a fee,card_payment_fee_charged
+148,I need to change my PIN.,change_pin
+149,"I tried using my card today and it's not working, can you help me?",card_not_working
+150,"I don't recognize some of the transactions on my card, I think someone must have gotten my card info and used it.",compromised_card
+151,I was charged a fee for a card payment. Why?,card_payment_fee_charged
+152,Is the bank the only place I can change my PIN>,change_pin
+153,I've been waiting longer than expected for my card.,card_arrival
+154,How do I activate a new card?,activate_my_card
+155,Is there a reason I was charged a fee for using my card as payment? I've never had an extra fee before.,card_payment_fee_charged
+156,My card appears to be broken how can I fix it?,card_not_working
+157,The exchange rate for my transaction last Saturday seems to have been wrong I got charged extra.  Please fix.,card_payment_wrong_exchange_rate
+158,What is the fee on my card payment?,card_payment_fee_charged
+159,What do I need to do to activate my card?,activate_my_card
+160,I tried activating my bill of fare and it didn't workplace,activate_my_card
+161,"Someone else is using my card, freeze it.",compromised_card
+162,Why is my exchange rate wrong for an item I bought?,card_payment_wrong_exchange_rate
+163,"I would like to activate my card to use now, can you help me?",activate_my_card
+164,Help me set up a new PIN?,change_pin
+165,Why are there fees for card usage?,card_payment_fee_charged
+166,I need a new PIN.,change_pin
+167,I just got this card & I don't know how to activate it.,activate_my_card
+168,The exchange rate seems off on this transaction,card_payment_wrong_exchange_rate
+169,Which cash machines will allow me to change my PIN?,change_pin
+170,The rate of exchange for my card payment is incorrect,card_payment_wrong_exchange_rate
+171,What is the activation process on my new card?,activate_my_card
+172,Help! Someone stole my card!,lost_or_stolen_card
+173,My bags were stolen. I need a new card but need to cancel the stolen one.,lost_or_stolen_card
+174,Can you look at my account ans see why my card was declined,declined_card_payment
+175,I believe someone is using my card without my agreement!,compromised_card
+176,Why am I being charged more ?,card_payment_wrong_exchange_rate
+177,When my card expires what happens to my account?,card_about_to_expire
+178,"I tried using my card and it kept getting declined, Why?",declined_card_payment
+179,"I have a card payment that was declined, but why?",declined_card_payment
+180,I need help activating my new card.,activate_my_card
+181,How do I update my PIN to a new number?,change_pin
+182,I think my card was stolen.,lost_or_stolen_card
+183,What do I do when my card is about to expire?,card_about_to_expire
+184,How can I change the PIN?  Do I have to go to a real bank?,change_pin
+185,How do I order a new card before It expires?,card_about_to_expire
+186,Is there a way my new card can be renewed?,activate_my_card
+187,How can i check if my card is working?,card_not_working
+188,They charged me wrong for a currency exchange on a purchase.,card_payment_wrong_exchange_rate
+189,What should I do if I lost my card?,lost_or_stolen_card
+190,Please explain why my card was declined?,declined_card_payment
+191,How do I report my card stolen?,lost_or_stolen_card
+192,What are the steps to activating a new card?,activate_my_card
+193,I have a new card and I want to activate it,activate_my_card
+194,i want to track the card you sent,card_arrival
+195,Can I freeze my card right now?,compromised_card
+196,My new card keeps getting declined. I was very excited to use it for the first time today. Why is this doing this?,declined_card_payment
+197,"If my card is about to expire, do I need to order a new one?",card_about_to_expire
+198,Can I use app to freeze account and dispute fraud?,compromised_card
+199,Can someone assist me by explaining why my card is not working?,card_not_working
+200,What steps do I need to take to change my card PIN?,change_pin

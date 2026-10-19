@@ -1,0 +1,121 @@
+review_id,date,product,rating,text
+R001,2026-01-03,Fit Band,3,Band is comfortable and the battery lasts 2 weeks but the app loses sync every other day. Have to re-pair constantly.
+R002,2026-01-04,Buds Pro,5,Sound is honestly insane for the price. Bass is punchy without getting muddy and the ANC kills the bus noise on my commute. Very happy with this one.
+R003,2026-01-05,Boom Mini,5,"Way louder than it has any right to be at this size. Took it to the beach, sounded great."
+R004,2026-01-06,Watch S2,5,Battery easily lasts 6 days with always-on display off. Sleep tracking is surprisingly accurate. Love it.
+R005,2026-01-08,Charge 20K,5,"Charges my phone 4 times. Heavy but it's 20000mAh, what did you expect. Fast charging works with my Pixel."
+R006,2026-01-12,Buds Pro,4,"Coming from AirPods Pro, these sound better imo but the case feels cheap and plasticky. The lid wobbles a bit. Keeping them anyway."
+R007,2026-01-13,Fit Band,2,App crashes when I open sleep data. The band itself seems fine but without the app it's a watch that shows steps.
+R008,2026-01-14,Boom Mini,4,"Good sound, decent bass for a small speaker. My JBL Flip is still a bit fuller but this is half the price."
+R009,2026-01-15,Watch S2,4,"Looks premium, strap is comfortable. Heart rate is a bit off during HIIT compared to my chest strap but fine for daily use."
+R010,2026-01-19,Charge 20K,4,Does the job. Charges my laptop over USB-C slowly but it works. A bit heavy for daily carry.
+R011,2026-01-20,Fit Band,4,"For the price this is great. Tracks steps, sleep and heart rate. Mi Band has more features but this one is more comfortable."
+R012,2026-01-21,Buds Pro,2,left bud keeps falling out when i run. tried all 3 tip sizes. great sound i guess but whats the point if its lying on the road
+R013,2026-01-22,Boom Mini,3,Party mode pairing with a second speaker is a nightmare. Took 30 mins and an app reinstall. Sound is nice once it works.
+R014,2026-01-24,Watch S2,4,"Switched from a Galaxy Watch. Battery here is way better, fewer apps. A trade off I'm ok with."
+R015,2026-01-27,Charge 20K,4,"Took it on a 3 day trek, kept 2 phones and a headlamp alive. Solid."
+R016,2026-01-28,Buds Pro,5,"Bought these for my daughter, she hasn't taken them off since. Says the call quality is way better than her old ones."
+R017,2026-01-29,Fit Band,2,Sync failed again. Lost 3 days of workout data. Pretty frustrating for a fitness tracker whose whole job is tracking.
+R018,2026-01-30,Boom Mini,5,"Bought two, I use them as a stereo pair in my room. Amazing for the money."
+R019,2026-01-30,Watch S2,3,"Notifications are delayed sometimes. Otherwise a nice watch, and the battery is great."
+R020,2026-01-31,Charge 20K,3,"The LED indicator is useless, 4 dots that jump from full to 2 dots randomly. Capacity seems fine."
+R021,2026-02-03,Buds Pro,3,"Decent. Nothing special. Sound is fine, battery is fine, fit is fine. It's a pair of earbuds."
+R022,2026-02-04,Charge 20K,2,"Ordered on 20 Jan, arrived 3 Feb. Tracking showed 'out for delivery' for 5 days straight. Product is okay."
+R023,2026-02-05,Fit Band,4,"Light, comfortable, I forget I'm wearing it. Battery is excellent. App is slow but works."
+R024,2026-02-06,Boom Mini,4,"Waterproof claim is real, it fell in the pool and survived. Sound is clear, bass is average."
+R025,2026-02-07,Watch S2,5,"Best watch I've owned. 5+ days battery, GPS locks fast on my runs, and the screen is bright even in direct sun."
+R026,2026-02-09,Charge 20K,1,"Never received it. Courier says delivered, it was not. Please refund me."
+R027,2026-02-11,Buds Pro,1,"Right earbud stopped charging after 3 weeks. Contacted support twice, no reply. I want a refund, not another 'we are looking into it' email."
+R028,2026-02-13,Fit Band,1,App won't connect at all after my phone updated. Support asked me to reinstall 4 times. Please process my refund.
+R029,2026-02-14,Boom Mini,2,Distorts at full volume. If you keep it under 70% it's fine but then why advertise it as 'party loud'.
+R030,2026-02-16,Watch S2,4,Good value. The app is a bit basic but the watch itself is solid. Charges from 0 to full in about an hour.
+R031,2026-02-17,Charge 20K,2,Delivery took 12 days and the box was already opened. Power bank works but I am not happy with the experience.
+R032,2026-02-19,Buds Pro,4,"Pretty good noise cancelling, not quite my old Sony WF-1000XM4 level but at half the price I am not complaining. The EQ in the app is useful."
+R033,2026-02-20,Fit Band,3,"Good value. The strap gave me a rash after a week of wearing it 24/7. Switched to a cloth strap, now fine."
+R034,2026-02-21,Boom Mini,5,"Gifted to my wife for Valentine's day, she plays her music in the kitchen all day. Battery lasts forever."
+R035,2026-02-23,Watch S2,5,"Got this for my dad, he uses it to track his walks. Simple enough for him to use on his own. Thank you Volta."
+R036,2026-02-25,Charge 20K,4,Late delivery but the power bank is good. Fast charge for my iPhone works with the right cable.
+R037,2026-02-26,Buds Pro,5,"Gym, office, flights. Used them everywhere for a month. Battery easily lasts a full workday. 10/10 would buy again."
+R038,2026-02-27,Boom Mini,4,"Good speaker. App is unnecessary, I never open it. Buttons on the speaker do everything."
+R039,2026-02-28,Fit Band,4,Simple and does what I need. Step goals and water reminders keep me on track.
+R040,2026-03-03,Charge 20K,5,Better than my Anker which died after a year. Build feels tough and the rubbery finish doesn't slip.
+R041,2026-03-04,Watch S2,4,Solid smartwatch. Battery lasts almost a week. Only complaint is the strap pin is fiddly.
+R042,2026-03-05,Buds Pro,4,"Sound bahut accha hai, bass full on. Bas case thoda bulky hai, pocket mein fit nahi hota. Overall paisa vasool."
+R043,2026-03-07,Boom Mini,5,Sound quality bahut mast hai. Chhota hai par awaaz full. Recommended.
+R044,2026-03-08,Fit Band,2,"The band is great, the app is garbage. Can't export data, graphs are confusing and sync is hit or miss."
+R045,2026-03-12,Charge 20K,3,gets pretty hot when charging two things at once. not dangerous hot but noticeably warm
+R046,2026-03-13,Watch S2,5,"Accurate step count, great battery, and it doesn't look like a toy. Recommended it to my whole team."
+R047,2026-03-14,Buds Pro,2,"Oh great, another 'premium' earbud where the touch controls pause my music every time I adjust my hat. Love that for me."
+R048,2026-03-15,Fit Band,4,"Battery life is ridiculous, 15 days on one charge. Display is readable outdoors."
+R049,2026-03-16,Boom Mini,2,"Overpriced. Rs 4,999 for a speaker that sounds about as good as the Rs 2,500 ones. Brand tax."
+R050,2026-03-19,Charge 20K,4,Value for money. Cheaper than the similar Mi and Anker ones and it charges just as fast.
+R051,2026-03-21,Watch S2,3,"It's fine. The watch faces are ugly though, please add more options. Battery is the best part."
+R052,2026-03-22,Buds Pro,4,"Comfortable enough for 3-4 hour sessions, which is rare for me. Mic is a bit muffled on calls though, people say I sound far away."
+R053,2026-03-23,Fit Band,3,"App ka sync issue abhi bhi hai. Band accha hai, par app mein data aadha hi aata hai."
+R054,2026-03-24,Boom Mini,4,"Used it on a camping trip, battery lasted the whole weekend. The strap is handy."
+R055,2026-03-28,Charge 20K,5,Bhai full value for money. Phone 4-5 baar charge ho jata hai. Travel ke liye best.
+R056,2026-03-29,Watch S2,4,"Delivered next day, impressive. Setup took 5 mins. So far so good."
+R057,2026-03-30,Buds Pro,5,"Better than my AirPods in every way except the app, which is clunky. Sound and ANC are top class."
+R058,2026-03-30,Fit Band,5,App update finally fixed the syncing for me. Now it's a great band for the money.
+R059,2026-03-31,Boom Mini,3,Sound is good but there's a half second delay when I watch videos from my laptop. Annoying for movies.
+R060,2026-04-04,Fit Band,4,"Comfortable for sleep tracking, unlike my old Fitbit which was too bulky. Accurate enough."
+R061,2026-04-05,Charge 20K,4,Recharges itself in about 5 hours with a 20W charger. Not bad. Wish it had passthrough charging.
+R062,2026-04-06,Buds Pro,3,Arrived two days late and the box was crushed. Earbuds themselves work fine and sound good. Packaging needs work.
+R063,2026-04-08,Boom Mini,5,"Honestly the best purchase I made this year. Crisp vocals, solid bass, tiny size."
+R064,2026-04-10,Watch S2,2,Updated to firmware 4.2 yesterday and now the battery is dead by evening?? It used to last 5 days. What did you guys do.
+R065,2026-04-13,Fit Band,5,"Cheap, light, long battery. My mom loves it. Bought a second one for my dad."
+R066,2026-04-14,Watch S2,1,After the latest update the battery drains 30% overnight with nothing running. This is unusable. I want a refund.
+R067,2026-04-15,Buds Pro,4,"Clear highs, tight bass. Spatial mode is a gimmick but whatever. Wish the ear tips were softer."
+R068,2026-04-16,Charge 20K,2,Expensive for what it is. Same capacity is available for 30% less from other brands.
+R069,2026-04-17,Boom Mini,4,Pretty happy. It's not a Bose but it's not priced like one either.
+R070,2026-04-19,Watch S2,2,"wow amazing update, now my 'week long battery' watch needs charging twice a day. really innovative stuff volta"
+R071,2026-04-22,Fit Band,3,"Heart rate jumps around during workouts. Fine for steps and sleep, not for serious training."
+R072,2026-04-23,Buds Pro,1,"Connection drops every few minutes with my laptop. Phone is ok. Returning these, already raised the return request."
+R073,2026-04-24,Charge 20K,4,"Small thing but I love the lanyard loop. Works well, no complaints."
+R074,2026-04-25,Boom Mini,1,Charging port broke after 6 weeks. Not covered because of 'physical damage'. I barely touched it. Want my money back.
+R075,2026-04-26,Watch S2,1,"Battery drain after update 4.2 is real. Watch gets warm on the wrist too. Support told me to factory reset, did that, no change. Returning it."
+R076,2026-04-28,Charge 20K,1,Stopped holding charge after 2 months. Goes from 100 to 0 in a day without use. Asking for a replacement.
+R077,2026-04-29,Buds Pro,5,I'm not an audiophile but these made me go back and relisten to old albums. That's the review.
+R078,2026-04-29,Fit Band,4,App is much better than before. Syncs quickly now. Band is comfy.
+R079,2026-04-30,Boom Mini,4,Clear sound for podcasts and calls. The mic works surprisingly well as a speakerphone.
+R080,2026-04-30,Watch S2,2,Update ke baad battery ek din bhi nahi chal rahi. Pehle 5 din chalti thi. Please jaldi fix karo.
+R081,2026-05-03,Fit Band,4,"Got it in 2 days, packed nicely. Setup was easy. Liking it so far."
+R082,2026-05-04,Buds Pro,4,Good buds. Fit is secure once you find the right tips. Would recommend to friends who don't want to spend AirPods money.
+R083,2026-05-05,Boom Mini,5,"Played it at a small house party, people asked what brand it was. Good enough for me."
+R084,2026-05-06,Watch S2,1,Still no fix for the battery drain. My old Fitbit never had this problem. Thinking of going back.
+R085,2026-05-07,Charge 20K,5,Used it during a 14 hour power cut. Kept the WiFi router and both phones running. Lifesaver.
+R086,2026-05-11,Watch S2,2,The watch is good when it works but with the current firmware the battery barely makes it to lunch. Display and sensors are still great.
+R087,2026-05-12,Boom Mini,3,Fine speaker but the app keeps asking me to log in. Why does a speaker need an account.
+R088,2026-05-13,Buds Pro,2,ANC is decent but there's a constant hiss when nothing is playing. Can't unhear it now. Support said it's 'normal'.
+R089,2026-05-14,Fit Band,2,Strap clasp broke after a month. For a band you wear every day the build should be better.
+R090,2026-05-15,Charge 20K,3,"It's ok. Big and heavy. If you need capacity it's good, if you want something pocketable look elsewhere."
+R091,2026-05-18,Watch S2,1,Requested a refund. Three weeks of 'our engineers are aware'. The battery dies in 10 hours now.
+R092,2026-05-19,Fit Band,5,"Great tracker, great price. Would recommend to anyone starting their fitness journey."
+R093,2026-05-20,Boom Mini,4,"Good sound, nice colours. The price dropped a week after I bought it, which stings a little."
+R094,2026-05-21,Buds Pro,5,Third pair I've bought (gifts). Everyone loves them. Sound for the money is unbeatable.
+R095,2026-05-22,Charge 20K,4,"Fast charging, decent build, reasonable price. Exactly what it says on the box."
+R096,2026-05-25,Watch S2,3,"Battery has been bad since the update, turning off raise-to-wake helps a little. Hoping for a patch. Everything else is great."
+R097,2026-05-26,Fit Band,3,It's fine. Screen is small and hard to read during runs. Battery and comfort are great.
+R098,2026-05-27,Buds Pro,3,Ears hurt after an hour. Sound is great though. Mixed feelings.
+R099,2026-05-28,Boom Mini,2,"Bass is weak, everything sounds a bit thin. My old Sony speaker sounded richer. Returning it."
+R100,2026-05-30,Charge 20K,2,"The cable it came with stopped working in a week. Power bank is fine but come on, include a decent cable."
+R101,2026-06-02,Boom Mini,4,Survived a monsoon trek in my backpack side pocket. Still sounds great.
+R102,2026-06-03,Buds Pro,4,The June firmware update fixed the laptop connection issue I had. Now pretty much perfect. Bumping to 4 stars.
+R103,2026-06-04,Watch S2,4,Firmware 4.2.1 fixed the battery drain for me. Back to 4-5 days. Phew. Took too long though.
+R104,2026-06-05,Fit Band,4,"Swimming mode works well, counted my laps correctly most of the time."
+R105,2026-06-06,Charge 20K,4,Charges my Switch and phone at the same time. Recommended for long flights.
+R106,2026-06-10,Boom Mini,5,"Exactly what I wanted. Loud, small, lasts all day."
+R107,2026-06-11,Watch S2,4,"Bought it after the battery fix came out. Getting 5 days easily. Nice screen, comfortable strap."
+R108,2026-06-12,Buds Pro,5,"Gym-proof. Sweat, rain, dropped one in a puddle. Still works. Sound is crisp."
+R109,2026-06-13,Fit Band,4,Does everything my friend's Mi Band does for less money. App is decent now.
+R110,2026-06-14,Charge 20K,5,Second one I bought. The first one is 2 years old and still going strong.
+R111,2026-06-18,Boom Mini,3,"Speaker is good, delivery packaging was terrible, just a polybag. Lucky it wasn't damaged."
+R112,2026-06-19,Watch S2,5,"Great watch, love the new watch faces. Battery is back to normal after the update."
+R113,2026-06-20,Buds Pro,2,"For Rs 7,999 I expected better build quality. One of the buds rattles when I shake it. Want a replacement or my money back."
+R114,2026-06-21,Fit Band,1,"Stopped turning on after 6 weeks. No physical damage. I'd like a refund please, not store credit."
+R115,2026-06-22,Charge 20K,3,"Works. Not sure it's really 20000mAh, I get maybe 3 full charges on a 4500mAh phone. Mehh."
+R116,2026-06-26,Boom Mini,4,Really solid little speaker. I'd pay a bit less for it but no regrets.
+R117,2026-06-27,Watch S2,3,Battery is better after 4.2.1 but still not as good as before the April update. Maybe 3 days now.
+R118,2026-06-28,Buds Pro,4,"Switched from a JBL pair, these are clearer in the mids. Battery a bit shorter than claimed but fine."
+R119,2026-06-29,Charge 20K,4,Arrived quickly this time and well packed. Good product.
+R120,2026-06-30,Fit Band,5,"Third month of using it daily, zero complaints. Battery, comfort, app all good now."

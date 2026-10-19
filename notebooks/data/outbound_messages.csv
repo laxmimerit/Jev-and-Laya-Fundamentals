@@ -1,0 +1,53 @@
+id,channel,text,gold_contains_personal_data,gold_category
+1,email,"Hi Marcus, thanks for reaching out! Your refund has been approved and should show up in 5-7 business days. Let us know if there's anything else we can help with.",False,clean
+2,chat,"No worries at all, glad the reset link worked. Have a great weekend!",False,clean
+3,social,Sorry to hear about the delay 😕 Could you DM us your order number so we can take a look?,False,clean
+4,email,"Hello, our office will be closed on Monday for the public holiday. Orders placed over the weekend will ship on Tuesday.",False,clean
+5,chat,"you can update your shipping address any time under Account > Addresses, as long as the order hasn't shipped yet",False,clean
+6,social,"@ok_ritika I've confirmed your new delivery address: Flat 12B, 9 Sample Towers, Andheri West, Mumbai 400053. It'll go out tomorrow!",True,personal_data
+7,email,"Hi Ms. Reyes, we tried calling you at 555-0142 this morning but couldn't reach you. Please call us back about your claim when you get a chance.",True,personal_data
+8,chat,Good news! Use code STAFF50-INTERNAL at checkout for 50% off. It's normally just for employees so don't spread it around 😉,False,internal_info
+9,social,"Thanks for the kind words, Jen! We'll pass this on to the team 🙌",False,clean
+10,email,"Hi there, the app update (version 4.2) fixes the login loop several of you reported. Please update from the App Store or Google Play.",False,clean
+11,chat,"For anything urgent you can call our helpline on 1-800-555-0100, we're open 8am to 8pm every day.",False,clean
+12,chat,"I've confirmed the card on file is 4111 1111 1111 1111, exp 09/28, and the charge went through fine.",True,personal_data
+13,email,"Dear customer, your subscription renews on the 1st of next month. You can cancel any time from the Billing page, there are no fees.",False,clean
+14,chat,You can follow the fix yourself here: https://jira.corp.example.com/browse/SUP-4471 (needs VPN),False,internal_info
+15,chat,"Ah, that error usually means the browser cache is stale. Could you try a hard refresh (Ctrl+Shift+R) and let me know if it's still there?",False,clean
+16,email,"Dear Rahul, for verification we have your Aadhaar number as 0000 1111 2222 on file. Please reply to confirm it is correct.",True,personal_data
+17,social,We hear you. Long hold times aren't ok and we're adding more agents this month. Really sorry about the wait yesterday.,False,clean
+18,email,"Hi Ankit, as discussed I've escalated your ticket to our billing team. They usually respond within 24 hours.",False,clean
+19,chat,"Sure, I've sent the invoice to priya.sharma@example.com and cc'd her manager at j.lee@example.com.",True,personal_data
+20,chat,Your order #A-20931 is out for delivery today 📦,False,clean
+21,social,"We can't say much yet but dark mode ships in the March release, along with the new Teams integration. Stay tuned!",False,internal_info
+22,email,Thanks for your feedback on the new dashboard. We've logged it as a feature request and the product team reviews these every month.,False,clean
+23,social,"Hey! Yes, the blue one is back in stock as of this morning.",False,clean
+24,email,"Hi Tom, thanks for telling us about your epilepsy diagnosis. We've added a note to your account so flashing animations stay switched off.",True,personal_data
+25,chat,"I'm sorry, I can't share account details over chat. Please log in to see your full statement.",False,clean
+26,email,"Per our internal pricing sheet we can go down to $12/seat for accounts over 200 seats, so I can offer you that if you sign this month.",False,internal_info
+27,email,Reminder: your free trial ends in 3 days. Upgrade any time to keep your projects.,False,clean
+28,chat,"Aapka refund process ho gaya hai, 5-7 working days mein account mein aa jayega. Kuch aur help chahiye toh batayein!",False,clean
+29,chat,Your pharmacy order for insulin glargine (2 pens) and the glucose test strips will ship tomorrow morning.,True,personal_data
+30,social,lol fair. we promise the next update won't move the settings button again 😅,False,clean
+31,email,"Hi Sofia, the replacement part ships from our warehouse today. You'll get a tracking link as soon as the courier picks it up.",False,clean
+32,email,"As requested, here are the account holder details: Maria Gonzalez, DOB 14/03/1987, 18 Sample Road, Riverton.",True,personal_data
+33,chat,"the bug is from the v4.3 migration script, eng is tracking it in #incident-2291 and the fix is planned for next sprint",False,internal_info
+34,chat,Our returns policy is 30 days from delivery. Items need to be unused and have their tags on.,False,clean
+35,chat,"ok so the refund went back to the visa ending 4417, should be there by friday",True,personal_data
+36,email,"We're sorry, but we can't offer a refund on digital downloads once they've been opened. Happy to help with anything else though.",False,clean
+37,social,"Thanks Linda! We've passed your number, 555-0187, to the installer and he'll text you before he arrives.",True,personal_data
+38,social,This looks like a bug on our side. The team is on it and we'll post an update here within the hour.,False,clean
+39,email,Here's the link to our staging site so you can preview the new checkout: https://staging.internal.example.com/checkout-v2,False,internal_info
+40,chat,"Great question! The Pro plan includes 5 seats, and extra seats are $8/month each.",False,clean
+41,email,"Hello, following up on your mother's hospital stay last month: the claim for her knee replacement surgery has been approved.",True,personal_data
+42,email,"Your password was changed successfully. If this wasn't you, reply to this email right away.",False,clean
+43,chat,"Sir aapka order 15 Demo Nagar, Kothrud, Pune wale address pe deliver hoga. Delivery boy aapko 555-0163 pe call karega.",True,personal_data
+44,chat,"thx for waiting! i checked and the coupon on your receipt was applied correctly, the discount is on line 3",False,clean
+45,social,Honestly the outage came from a bad config push by our infra team. The postmortem is internal for now but we'll share a summary.,False,internal_info
+46,email,"Hello Mr. Okafor, we've received your documents and your claim is now under review. We'll be in touch within 10 working days.",False,clean
+47,chat,"I can see the account is linked to sam.okoro@example.com and the backup phone is 555-0119, want me to update either?",True,personal_data
+48,social,We're so sorry your parcel arrived damaged! Please send us a DM with a photo and we'll sort out a replacement.,False,clean
+49,chat,"btw we're acquiring one of our competitors next quarter so pricing might change, keep that between us lol",False,internal_info
+50,email,"Hi Jordan, the passport number on your booking is P0000000. Please check it matches your travel document before Friday.",True,personal_data
+51,social,"@karen_b found your account! you're the one at 7 Placeholder Ave, right? DMing you now",True,personal_data
+52,email,Thanks for joining the webinar! The recording and slides are now on our public help center.,False,clean

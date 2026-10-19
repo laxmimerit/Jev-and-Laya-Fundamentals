@@ -1,0 +1,17 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Written by the notebooks
+notebooks/Modelfile
+notebooks/inbox.json
+notebooks/data/tickets_triaged.csv
+notebooks/data/reviews_structured.csv
+notebooks/data/leads_scored.csv
+notebooks/data/card_eval_results.csv
+
+# Working notes for the theory videos
+.theory/

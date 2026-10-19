@@ -1,0 +1,19 @@
+[project]
+name = "jev-and-laya-fundamentals"
+version = "0.1.0"
+description = "Jev and Laya Fundamentals: Decision AI for Beginners"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+authors = [{ name = "Laxmi Kant Tiwari", email = "laxmimerit@gmail.com" }]
+dependencies = [
+    "typesafe-sdk>=0.7.5",
+    "ollama>=0.6.3",
+    "pandas",
+    "matplotlib",
+    "python-dotenv",
+    "jupyter",
+    "ipykernel",
+]
+
+[tool.uv]
+package = false

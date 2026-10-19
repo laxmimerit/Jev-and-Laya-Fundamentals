@@ -1,0 +1,43 @@
+id,language,text,english,topic,sentiment
+1,english,"Order came 50 mins late, the app kept saying 'arriving in 5 mins' for half an hour.","Order came 50 mins late, the app kept saying 'arriving in 5 mins' for half an hour.",delivery_time,negative
+2,hindi,"ऑर्डर डेढ़ घंटे बाद पहुँचा, ऐप पर बार-बार टाइम बढ़ता रहा।","The order arrived after an hour and a half, and the time on the app kept going up.",delivery_time,negative
+3,hinglish,"Bhai delivery itni late kyu? 1 ghanta ho gaya, app pe abhi bhi 'on the way' dikha raha hai","Brother, why is the delivery so late? It's been an hour and the app still shows 'on the way'.",delivery_time,negative
+4,english,"Biryani was hot and the portion was huge, easily fed two of us. Will order again!","Biryani was hot and the portion was huge, easily fed two of us. Will order again!",food_quality,positive
+5,hindi,"दाल मखनी बहुत स्वादिष्ट थी, बिल्कुल घर जैसा खाना।","The dal makhani was very tasty, just like home food.",food_quality,positive
+6,hinglish,"Paneer butter masala ekdum mast tha, quantity bhi achhi thi","The paneer butter masala was excellent, and the quantity was good too.",food_quality,positive
+7,english,"Refund for the missing paneer tikka still not credited, it's been 6 days. Support keeps saying 24-48 hours.","Refund for the missing paneer tikka still not credited, it's been 6 days. Support keeps saying 24-48 hours.",refund_payment,negative
+8,hindi,मेरे पैसे कट गए लेकिन ऑर्डर कन्फर्म नहीं हुआ। अब तक रिफंड नहीं मिला।,My money was deducted but the order was not confirmed. I still haven't got a refund.,refund_payment,negative
+9,hinglish,"Refund abhi tak nahi aaya, 5 din ho gaye. Customer care wale bas wait karo bolte hain","The refund still hasn't come, it's been 5 days. Customer care just keeps saying wait.",refund_payment,negative
+10,english,"App crashes every time I try to apply a coupon at checkout. Android 14, latest version.","App crashes every time I try to apply a coupon at checkout. Android 14, latest version.",app_experience,negative
+11,hindi,"ऐप बहुत धीमा चलता है, मेन्यू खुलने में ही आधा मिनट लग जाता है।","The app is very slow, the menu alone takes half a minute to open.",app_experience,negative
+12,hinglish,"App baar baar logout ho jaata hai, har baar OTP daalna padta hai. Bahut irritating hai","The app keeps logging me out, I have to enter the OTP every time. Very irritating.",app_experience,negative
+13,english,Delivery guy was super polite and even waited while I came down from the 4th floor. Tipped him :),Delivery guy was super polite and even waited while I came down from the 4th floor. Tipped him :),delivery_partner,positive
+14,hindi,"डिलीवरी वाले भैया ने बारिश में भी समय पर खाना पहुँचाया, बहुत धन्यवाद।","The delivery person brought the food on time even in the rain, thank you very much.",delivery_partner,positive
+15,hinglish,"Rider bhaiya bahut helpful the, building dhoondhne mein khud call karke help ki","The rider was very helpful, he called me himself to help find the building.",delivery_partner,positive
+16,english,"Food was okay, nothing special. Delivery was on time though.","Food was okay, nothing special. Delivery was on time though.",food_quality,neutral
+17,hindi,"खाने का स्वाद ठीक-ठाक था, कुछ खास नहीं।","The food tasted okay, nothing special.",food_quality,neutral
+18,hinglish,"Khana average tha, na accha na bura. Packing theek thi","The food was average, neither good nor bad. The packing was fine.",food_quality,neutral
+19,english,"Got charged twice for one order via UPI. Money debited both times, only one order placed.","Got charged twice for one order via UPI. Money debited both times, only one order placed.",refund_payment,negative
+20,hindi,"एक ही ऑर्डर के लिए दो बार पैसे कटे हैं, कृपया जल्दी वापस करें।","Money was deducted twice for the same order, please return it quickly.",refund_payment,negative
+21,hinglish,"Payment fail hua lekin paise kat gaye, ab kya karu?","The payment failed but the money was deducted, what do I do now?",refund_payment,negative
+22,english,"New UI is cleaner, finding past orders is much easier now.","New UI is cleaner, finding past orders is much easier now.",app_experience,positive
+23,hindi,"नया अपडेट अच्छा है, अब ऑर्डर ट्रैक करना आसान हो गया है।","The new update is good, tracking orders is easier now.",app_experience,positive
+24,hinglish,"Naya dark mode accha laga, raat ko aankhon ko aaram milta hai","I liked the new dark mode, it is easy on the eyes at night.",app_experience,positive
+25,english,"Arrived 10 mins before the estimated time, impressed.","Arrived 10 mins before the estimated time, impressed.",delivery_time,positive
+26,hindi,"खाना समय से पहले आ गया, गरम भी था।","The food came before time, and it was hot too.",delivery_time,positive
+27,hinglish,"Order time se pehle aa gaya, full marks","The order came before time, full marks.",delivery_time,positive
+28,english,"The pizza was cold and soggy, cheese had gone rubbery. Not worth 450 rupees.","The pizza was cold and soggy, cheese had gone rubbery. Not worth 450 rupees.",food_quality,negative
+29,hindi,रोटियाँ कच्ची थीं और सब्ज़ी में बहुत ज़्यादा तेल था।,The rotis were undercooked and the curry had far too much oil.,food_quality,negative
+30,hinglish,Biryani mein chawal kachcha tha aur chicken bilkul fresh nahi laga,The rice in the biryani was undercooked and the chicken did not taste fresh at all.,food_quality,negative
+31,english,Rider asked me to cancel the order and pay him cash instead. Felt very sketchy.,Rider asked me to cancel the order and pay him cash instead. Felt very sketchy.,delivery_partner,negative
+32,hindi,डिलीवरी बॉय ने बहुत बदतमीज़ी से बात की और खाना गेट पर रखकर चला गया।,The delivery boy spoke very rudely and left the food at the gate and went away.,delivery_partner,negative
+33,hinglish,"Delivery boy ne extra 20 rupaye maange change ke naam pe, not done yaar","The delivery boy asked for 20 rupees extra in the name of change, not done.",delivery_partner,negative
+34,english,"Refund came back to my wallet within an hour, quick resolution. Thanks.","Refund came back to my wallet within an hour, quick resolution. Thanks.",refund_payment,positive
+35,hindi,"रिफंड दो घंटे में खाते में आ गया, अच्छी सेवा।","The refund reached my account in two hours, good service.",refund_payment,positive
+36,english,Is there a way to schedule an order for tomorrow morning? Couldn't find it in the app.,Is there a way to schedule an order for tomorrow morning? Couldn't find it in the app.,app_experience,neutral
+37,hindi,"कूपन लगाने पर हर बार एरर आता है, पेमेंट पेज पर ऐप अटक जाता है।","Every time I apply a coupon I get an error, and the app gets stuck on the payment page.",app_experience,negative
+38,hindi,पैकिंग अच्छी थी लेकिन ऑर्डर 40 मिनट लेट था।,The packing was good but the order was 40 minutes late.,delivery_time,negative
+39,tamil,"உணவு மிகவும் சுவையாக இருந்தது, மீண்டும் ஆர்டர் செய்வேன்.","The food was very tasty, I will order again.",food_quality,positive
+40,tamil,டெலிவரி ஒரு மணி நேரம் தாமதமாக வந்தது.,The delivery came an hour late.,delivery_time,negative
+41,bengali,খাবার ঠান্ডা ছিল আর স্বাদও ভালো ছিল না।,The food was cold and the taste was not good either.,food_quality,negative
+42,bengali,"রিফান্ড এখনও পাইনি, তিন দিন হয়ে গেল।","I still haven't received the refund, it has been three days.",refund_payment,negative
